@@ -25,15 +25,14 @@ To receive full credit you must:
 * Your name as it appears in Canvas.
 * The name you prefer to be called.
 * A recent photo of you to help me learn what you look like.
-* One fun fact about yourself.
 
 2. Submit this **PDF** to Canvas for Problem Set 1. *Note: You will not get full credit if you submit a PowerPoint or a link to a Google Slides presentation. You must submit a **PDF**.*
 
 ### Part 2: Take the course survey
-[Take this short survey.](https://forms.gle/iHYSEMEgyb3qoj3a6)
+[Take this short survey.](https://forms.gle/P6YQDRKZX2HxS7D37)
 
 ### Part 3: Get started on Slack
-[Follow this link to join the Slack organization for this class](https://join.slack.com/t/cs1101-04spring2021/shared_invite/zt-l6ivsjqe-c~~k2eLVXRBo64opHrBRhw). Create your account if you don't have one and feel free to use a pseudonym for your username. Then post a message in the #general channel. Don't forget to @prudhome if you need my attention.
+[Follow this link to join the Slack organization for this class](https://join.slack.com/t/csci1101-05fall22/shared_invite/zt-1f065l9zo-55jcSfX5olRbRQotioT58w). Create your account if you don't have one and feel free to use a pseudonym for your username. Then post a message in the #general channel. Don't forget to @prudhome if you need my attention.
 
 ### Part 4: Install Python (if you didn't already install it in class)
 
