@@ -42,7 +42,7 @@ To receive full credit you must:
 
 2. Double click on the downloaded file to install Python on your computer. Answer the questions that the installer asks you and keep clicking the "Continue" button. You might have to enter your computer's password to complete the installation.
 
-*Important note for Windows users: You **must** check the box in the first dialogue window that says "Add Python 3.9 to PATH"!*
+*Important note for Windows users: You **must** check the box in the first dialogue window that says "Add Python 3.10 to PATH"!*
 
 3. After installation is complete, your computer will probably open a window showing you where the various Python components were installed. On a Mac, it's in Applications by default. In Windows, the default location is in Programs. If you are having trouble finding the Python components you just installed, you can always search for "python" or "idle" the way you would search for any other file or program. Here's a screenshot from my Mac showing where the installer installed Python. 
 
